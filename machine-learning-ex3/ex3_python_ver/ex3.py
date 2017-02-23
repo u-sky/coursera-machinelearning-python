@@ -10,4 +10,4 @@ data = sio.loadmat('ex3data1.mat')
 # try to get first 10 rows
 sel = data['X'][np.arange(10),:]
 
-def displayData:
+# def displayData:
